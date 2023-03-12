@@ -2,11 +2,9 @@
   {
     "authorName": "Professor Doctor Hideyuki Majima",
     "department": "School of Allied Health Sciences, Walailak University",
-    "subjectArea": [
-      
-    ],
+    "subjectArea": [],
     "h_index": "29",
-    "image": "https://scholar.google.com/citations/images/avatar_scholar_128.png",
+    "image": "/citations/images/avatar_scholar_128.png",
     "article": [
       {
         "articleName": "Development of novel fluorescence probes that can reliably detect reactive oxygen species and distinguish specific species* 210",
@@ -499,7 +497,9 @@
         "publisher": "",
         "description": "Bacopa monnieri (L.) Wettst. (Brahmi in India and Thailand) is an ayurvedic dementia treatment, but its effect on cerebral blood flow (CBF) is still unknown. We sought to test its chronic and acute effects on CBF compared with Ginkgo biloba and donepezil. CBF was measured by laser Doppler from rat cerebral cortex after 8 weeks of daily oral dosing of these drugs. Systolic blood pressure was also measured using the tail cuff method or via arterial cannulation. In rats treated with B. monnieri (40 mg/kg), CBF was 25% increased [2927 ± 123 perfusion units, (PU)] compared with shams (2337 ± 217 PU, p < 0.05, nine rats). G. biloba (60 mg/kg) also increased CBF (by 29% to 3019 ± 208 PU, p < 0.05, nine rats). No clear effect was obtained with donepezil (1 mg/kg). Chronic administration of the preparations had no effect on blood pressure. In contrast, intravenous acute infusion of these herbals (20�60��",
         "url": "https://scholar.google.com/citations?view_op=view_citation&hl=th&oe=CP874&user=Iy5ZKB0AAAAJ&citation_for_view=Iy5ZKB0AAAAJ:8k81kl-MbHgC"
-      },
+      }
+    ]
+  },
   {
     "authorName": "Professor Doctor Hideyuki Majima",
     "department": "School of Allied Health Sciences, Walailak University",
@@ -757,7 +757,7 @@
       "rigor of clinical trials"
     ],
     "h_index": "34",
-    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Iy5ZKB0AAAAJ&citpid=1",
+    "image": "https://scholar.google.comhttps://scholar.googleusercontent.com/citations?view_op=view_photo&user=Iy5ZKB0AAAAJ&citpid=1",
     "article": [
       {
         "articleName": "Fast retinal vessel detection and measurement using wavelets and edge location refinement",
