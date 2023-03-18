@@ -1,10 +1,14 @@
 [
-  {
+    {
     "article_id": 1,
     "articleName": "A class-wide phylogenetic assessment of Dothideomycetes",
     "author": "CL Schoch, Pedro W Crous, Johannes Z Groenewald, EWA Boehm, Treena I Burgess, J De Gruyter, G Sybren De Hoog, LJ Dixon, M Grube, C Gueidan, Y Harada, S Hatakeyama, K Hirayama, T Hosoya, SM Huhndorf, Kevin D Hyde, EBG Jones, J Kohlmeyer, Åsa Kruys, YM Li, R Lücking, H Thorsten Lumbsch, Ludmila Marvanová, JS Mbatchou, AH McVay, AN Miller, GK Mugambi, L Muggia, MP Nelsen, P Nelson, CA Owensby, AJL Phillips, S Phongpaichit, Stephen B Pointing, Valérie Pujade-Renaud, HA Raja, E Rivas Plata, Barbara Robbertse, C Ruibal, J Sakayaroj, T Sano, L Selbmann, CA Shearer, T Shirouzu, Bernard Slippers, S Suetrong, K Tanaka, B Volkmann-Kohlmeyer, Michael J Wingfield, AR Wood, JHC Woudenberg, H Yonezawa, Yong Zhang, JW Spatafora",
     "releaseDate": "2009/6/1",
     "academicJournal": "Studies in mycology",
+    "volume": "64",
+    "no": "1",
+    "page": "1-15",
+    "publisher": "Westerdijk Fungal Biodiversity Institute",
     "description": "We present a comprehensive phylogeny derived from 5 genes, nucSSU, nucLSU rDNA, TEF1, RPB1 and RPB2, for 356 isolates and 41 families (six newly described in this volume) in Dothideomycetes. All currently accepted orders in the class are represented for the first time in addition to numerous previously unplaced lineages. Subclass Pleosporomycetidae is expanded to include the aquatic order Jahnulales. An ancestral reconstruction of basic nutritional modes supports numerous transitions from saprobic life histories to plant associated and lichenised modes and a transition from terrestrial to aquatic habitats are confirmed. Finally, a genomic comparison of 6 dothideomycete genomes with other fungi finds a high level of unique protein associated with the class, supporting its delineation as a separate taxon.",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=th&oe=CP874&user=YiPGPisAAAAJ&citation_for_view=YiPGPisAAAAJ:Se3iqnhoufwC",
     "author_id": 1
@@ -15,6 +19,10 @@
     "author": "EBG Jones, J Sakayaroj, S Suetrong, S Somrithipol, Ka-Lai Pang",
     "releaseDate": "2009/3/31",
     "academicJournal": "Fungal Diversity",
+    "volume": "35",
+    "no": "1",
+    "page": "187",
+    "publisher": "",
     "description": "A comprehensive classification of the filamentous marine fungi is outlined, with reference to recent molecular phylogenetic analyses. The classification includes 530 species (in 321 genera) to order level: Ascomycota 424 species (in 251 genera), anamorphic fungi 94 species (in 61 genera) and Basidiomycota 12 species (in 9 genera). The Halosphaeriales is the largest order of marine fungi with 126 species in 53 genera, of which 35 are monotypic. Several taxa are of uncertain position and cannot be assigned to any higher taxonomic ranks. The decadel index shows that most marine fungi were described in the period 1980-1989 (135) and 1990-1999 (156), with 43 new species and 25 new genera from the past eight years. Keys are provided to the major taxa, genera and species. One new species is described in this paper.",
     "url": "https://scholar.google.com/citations?view_op=view_citation&hl=th&oe=CP874&user=YiPGPisAAAAJ&citation_for_view=YiPGPisAAAAJ:YOwf2qJgpHMC",
     "author_id": 1
