@@ -1,0 +1,91 @@
+[
+  {
+    "author_id": 1,
+    "authorName": "Jariya Sakayaroj, PhD., FHEA",
+    "department": "Walailak University",
+    "subjectArea": ["Mycology"],
+    "h_index": "39",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=YiPGPisAAAAJ&citpid=1"
+  },
+  {
+    "author_id": 2,
+    "authorName": "Panomwat Amornphimoltham",
+    "department": "Head of Research Unit, WUICD, Walailak University,THAILAND",
+    "subjectArea": ["Medical and health sciences/ tumor biology"],
+    "h_index": "37",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=M11G7vAAAAAJ&citpid=1"
+  },
+  {
+    "author_id": 3,
+    "authorName": "Professor Doctor Hideyuki Majima",
+    "department": "School of Allied Health Sciences, Walailak University",
+    "subjectArea": [],
+    "h_index": "29",
+    "image": "/citations/images/avatar_scholar_128.png"
+  },
+  {
+    "author_id": 4,
+    "authorName": "C. Norman Scholfield",
+    "department": "Akkhraratchakumari Veterinary College, Walailak University, 80160,Thailand",
+    "subjectArea": [
+      "Efficacy and safety of herbal medicines",
+      "rigor of clinical trials"
+    ],
+    "h_index": "34",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Iy5ZKB0AAAAJ&citpid=1"
+  },
+  {
+    "author_id": 5,
+    "authorName": "Manat Chaijan",
+    "department": "Associate Professor of Food Technology, Walailak University",
+    "subjectArea": [],
+    "h_index": "27",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gOEeIMAAAAAJ&citpid=1"
+  },
+  {
+    "author_id": 6,
+    "authorName": "Jitbanjong Tangpong",
+    "department": "Professor of Biomedical Sciences, Walailak University",
+    "subjectArea": ["Free radical biology of medicine"],
+    "h_index": "22",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=TYKXfP4AAAAJ&citpid=1"
+  },
+  {
+    "author_id": 7,
+    "authorName": "Nuttawit Wattanasakulpong",
+    "department": "Walailak University",
+    "subjectArea": ["Mechanics of Advanced Composite Materials"],
+    "h_index": "22",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=toCwGhQAAAAJ&citpid=1"
+  },
+  {
+    "author_id": 8,
+    "authorName": "wichitpan rongwong",
+    "department": "walailak university",
+    "subjectArea": ["Acid gas treatment", "membrane processes"],
+    "h_index": "25",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=sMyax10AAAAJ&citpid=1"
+  },
+  {
+    "author_id": 9,
+    "authorName": "Nirundorn Matan",
+    "department": "Materials Science and Engineering, School of Engineering, Walailak University, Thailand",
+    "subjectArea": [
+      "Wood drying",
+      "Wood processing",
+      "Materials characterization",
+      "Creep",
+      "Superalloys"
+    ],
+    "h_index": "21",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=17G1bwEAAAAJ&citpid=2"
+  },
+  {
+    "author_id": 10,
+    "authorName": "Narumol Matan",
+    "department": "Food Technology, Walailak University",
+    "subjectArea": ["Antimicrobial"],
+    "h_index": "22",
+    "image": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5jaVX6oAAAAJ&citpid=2"
+  }
+]
